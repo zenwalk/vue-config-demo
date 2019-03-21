@@ -23,3 +23,6 @@ export function main({ locale, baseURL }) {
     });
 </script>
 ```
+
+
+https://codeburst.io/passing-configuration-to-vue-js-1b96fa8f959
